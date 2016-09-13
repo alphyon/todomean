@@ -11,7 +11,7 @@ module.exports = function(app) {
         });
     });
 
-    app.post('/api/todos'function(req, res) {
+    app.post('/api/todos',function(req, res) {
         Todo.create({
             text: req.body.text,
             done: false
