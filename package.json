@@ -1,0 +1,14 @@
+{
+    "name": "TODO",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "alphyon",
+    "contributors": [],
+    "dependencies": {
+        "express" : "~4.13.2",
+        "moongose": "~3.6.2",
+        "morgan"  : "~1.6.1",
+        "body-parser": "~1.14.1",
+        "method-override": "~2.3.5"
+    }
+}
